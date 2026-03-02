@@ -31,10 +31,28 @@ def processCommand(c):
     elif "open ai" in c:
         webbrowser.open("https://chat.openai.com")
         speak("Opening ChatGPT")
-    elif "open vs code" in c:
-        webbrowser.open("https://code.visualstudio.com/")
-        speak("Opening VS Code")
+    elif "open github" in c:
+        webbrowser.open("https://www.github.com")
+        speak("Opening GitHub")
+    elif "open linkedin" in c:
+        webbrowser.open("https://www.linkedin.com")
+        speak("Opening LinkedIn")
+    elif "open twitter" in c:
+        webbrowser.open("https://www.twitter.com")
+        speak("Opening Twitter")
+    elif "open reddit" in c:
+        webbrowser.open("https://www.reddit.com")
+        speak("Opening Reddit")
+    elif "open stack overflow" in c:
+        webbrowser.open("https://www.stackoverflow.com")
+        speak("Opening Stack Overflow")
+    elif "open wikipedia" in c:
+        webbrowser.open("https://www.wikipedia.org")
+        speak("Opening Wikipedia")
     elif "play music" in c:
+        webbrowser.open("https://www.spotify.com")
+        speak("Opening Spotify")
+    elif "open spotify" in c:
         webbrowser.open("https://www.spotify.com")
         speak("Opening Spotify")
     elif c.startswith("play"):
@@ -56,7 +74,7 @@ def processCommand(c):
         speak("Sorry, I didn't understand that.")
 
 if __name__ == "__main__":
-    speak("Yes Rifat, I am listening...")
+    speak("Yes , I am listening...")
     while True:
         try:
             with sr.Microphone() as source:

@@ -1,5 +1,22 @@
 music = {
     "shape of you": "https://www.youtube.com/watch?v=JGwWNGJdvx8",
     "perfect": "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-    "saly" : "https://www.youtube.com/watch?v=qlzcHe_gusE&list=RDqlzcHe_gusE&start_radio=1&pp=ygUEc2xheaAHAQ%3D%3D"
+    "slay": "https://www.youtube.com/watch?v=qlzcHe_gusE",
+    "blinding lights": "https://www.youtube.com/watch?v=4NRXx6U8ABQ",
+    "levitating": "https://www.youtube.com/watch?v=TUVcZfQe-Kw",
+    "heat waves": "https://www.youtube.com/watch?v=mNxHRrMohaE",
+    "anti hero": "https://www.youtube.com/watch?v=8b5O1FG-AVM",
+    "bohemian rhapsody": "https://www.youtube.com/watch?v=fJ9rUzIMt7o",
+    "stairway to heaven": "https://www.youtube.com/watch?v=D024P3pVd4c",
+    "imagine": "https://www.youtube.com/watch?v=DVg2EJvvlF8",
+    "yesterday": "https://www.youtube.com/watch?v=F-6JUruPppU",
+    "smells like teen spirit": "https://www.youtube.com/watch?v=hTWKbfoikeg",
+    "hotel california": "https://www.youtube.com/watch?v=sI8Ow7B-eqE",
+    "sweet home alabama": "https://www.youtube.com/watch?v=ze_uBIcJNc8",
+    "wonderwall": "https://www.youtube.com/watch?v=6hzrDeceEKc",
+    "somebody to love": "https://www.youtube.com/watch?v=kijycczYwQA",
+    "tik tok": "https://www.youtube.com/watch?v=ZOGCbwLke44",
+    "uptown funk": "https://www.youtube.com/watch?v=OPf0YBXqDm0",
+    "good as hell": "https://www.youtube.com/watch?v=I0sI1llqAtQ",
+    "stay": "https://www.youtube.com/watch?v=m7Bc3pLyij0"
 }
