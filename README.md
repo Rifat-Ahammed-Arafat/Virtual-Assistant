@@ -11,7 +11,7 @@ A voice-controlled AI assistant that listens for commands and performs web brows
 
 ## Requirements
 
-- Python 3.x
+- Python 3.12
 - `speech_recognition` library
 - `pyttsx3` library
 - `pyaudio` library (for microphone input)
