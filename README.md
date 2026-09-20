@@ -33,7 +33,7 @@ A voice-controlled AI assistant that listens for commands and performs web brows
    python main.py
    ```
 
-2. Wait for the message "Yes Rifat, I am listening..."
+2. Wait for the message "Yes, I am listening..."
 
 3. Say **"hello"** to wake up the assistant
 
