@@ -59,7 +59,7 @@ A voice-controlled AI assistant that listens for commands and performs web brows
 #### Music Playback (20+ Songs Available)
 - "play shape of you" - Ed Sheeran
 - "play perfect" - Ed Sheeran
-- "play slay" - Billie Eilish
+- "play slay" - Eternxlkz
 - "play blinding lights" - The Weeknd
 - "play levitating" - Dua Lipa
 - "play heat waves" - Glass Animals
